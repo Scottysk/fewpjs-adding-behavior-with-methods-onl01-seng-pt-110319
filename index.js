@@ -23,5 +23,6 @@ class Bird {
     this.name = name;
     this.sex = sex;
   }
+  if 
 }
 
